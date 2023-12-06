@@ -1,2 +1,2 @@
-# pMi primer README
+# Mi primer README
 prueba de repositorio github
